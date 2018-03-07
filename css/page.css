@@ -11,20 +11,23 @@ page{
     padding-top:30%;
 }
 #c{
+    background-image: url(http://n1.itc.cn/img8/wb/smccloud/fetch/2015/02/03/201679320008867565.JPEG)
     background-color:lightgreen;
     animation:c 10s infinite;
 }
 #x{
+    background-image: url(http://attachments.gfan.com/forum/201411/29/225811f1xoxbdsd9fy1a7a.jpg)
     background-color:red;
     animation:x 10s infinite;
 }
 #q{
-    background-image: url(http://img1a.xgo-img.com.cn/pics/1621/1620721.jpg);
+    background-image: url(http://i1.shouyou.itc.cn/2014/news/2014/11/28/1334x750bz1129_15.jpg);
     background-size: 100% 100%;
     animation:q 10s infinite;
 }
 
 #d{
+    background-image: url(http://img.zcool.cn/community/0164015750f15832f875a42937e9ab.png)
     background-color:black;
     color:white;
     animation:d 10s infinite;
