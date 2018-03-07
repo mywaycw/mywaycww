@@ -12,12 +12,12 @@ page{
 }
 #c{
     background-image: url(http://n1.itc.cn/img8/wb/smccloud/fetch/2015/02/03/201679320008867565.JPEG)
-    background-color:lightgreen;
+    background-size: 100% 100%;
     animation:c 10s infinite;
 }
 #x{
     background-image: url(http://attachments.gfan.com/forum/201411/29/225811f1xoxbdsd9fy1a7a.jpg)
-    background-color:red;
+    background-size: 100% 100%;
     animation:x 10s infinite;
 }
 #q{
@@ -28,7 +28,7 @@ page{
 
 #d{
     background-image: url(http://img.zcool.cn/community/0164015750f15832f875a42937e9ab.png)
-    background-color:black;
+    background-size: 100% 100%;
     color:white;
     animation:d 10s infinite;
 }
